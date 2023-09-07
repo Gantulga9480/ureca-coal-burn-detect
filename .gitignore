@@ -1,8 +1,5 @@
 .vscode
-*.pt
 *.txt
-*.png
 runs
-best_models
 models
 plots
